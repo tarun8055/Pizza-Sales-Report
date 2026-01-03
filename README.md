@@ -81,8 +81,9 @@ Additionally, the project enhanced my analytical thinking, problem-solving skill
 <!-- Project 1 -->
 <h3 id="project1">Project 1: <Pizza Analysis Report></h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+This project involved a comprehensive Data Science analysis of a pizza sales dataset, comprising 48,620 transactions. The primary goal was to transform raw sales data into actionable business intelligence using SQL for Key Performance Indicators (KPIs) and Python for advanced exploratory data analysis (EDA) and predictive modelling.
+Key insights derived include: identification of peak sales periods (hourly and daily), top-performing product categories (driving revenue), and optimal pizza sizes. Two predictive models were developed: a Linear Regression model for highly accurate profit forecasting and a Logistic Regression model for classifying high-value 'large orders'. The models achieved near-perfect accuracy, validating the feature engineering and providing deployable assets for the business intelligence dashboard (Power BI). The findings offer clear recommendations for optimizing staffing, pricing strategy, and inventory management.
+
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
