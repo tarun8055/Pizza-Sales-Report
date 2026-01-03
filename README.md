@@ -86,7 +86,7 @@ Key insights derived include: identification of peak sales periods (hourly and d
 
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<SURE_Trust_project_document[Tarun].docx>" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
