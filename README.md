@@ -86,7 +86,7 @@ Key insights derived include: identification of peak sales periods (hourly and d
 
 </p>
 <p>
-  <a href="<https://github.com/tarun8055/Pizza-Sales>" target="_blank"><strong> → View Full Project Report</strong></a>
+ <a href="https://github.com/ajantaGhost/HotelBookingProject/blob/main/HotelBooking_ProjectReport.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
