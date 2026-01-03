@@ -92,10 +92,22 @@ Key insights derived include: identification of peak sales periods (hourly and d
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
+# **Technologies and Tools Used**
+
+- **Microsoft Excel** – Used for data cleaning, handling missing values, creating calculated columns, pivot tables, conditional formatting, dashboards, and automation using macros.
+
+- **Python (Pandas, Scikit-learn, Matplotlib)** – Used for data merging, feature encoding, classification and regression modeling, correlation analysis, outlier detection, and pipeline automation.
+
+- **GitHub** – Used for version control, project documentation, and sharing datasets, scripts, and reports.
+
 
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
+- [Microsoft Excel Official Support](https://support.microsoft.com/excel)
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 <!--you can add refrences over here in same syntax as above -->
 ---
 
@@ -103,7 +115,12 @@ Key insights derived include: identification of peak sales periods (hourly and d
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
+
+The Life Skills Training (LST) and Soft Skills Training (SST) sessions significantly contributed to my personal and professional growth during the internship. These sessions emphasized the importance of leadership qualities, self-discipline, time management, and maintaining a positive attitude in both academic and professional environments. I learned how discipline and consistency play a crucial role in achieving long-term goals.
+
+The training sessions helped me strengthen my communication skills, including effective verbal communication, active listening, and appropriate body language. I gained a clear understanding of how to present ideas confidently and professionally through structured presentations and discussions. The SST sessions also focused on interview skills such as resume explanation, answering technical and HR questions, and handling interview situations with confidence.
+
+Additionally, the sessions highlighted the importance of teamwork, adaptability, and professional ethics in the workplace. Overall, LST and SST sessions improved my confidence, professionalism, leadership mindset, and readiness to face real-world corporate and industry challenges.
 LST and SST sessions helped me....
 ---
 
@@ -111,11 +128,12 @@ LST and SST sessions helped me....
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I actively participated in several community service activities that focused on social welfare, environmental sustainability, and support for underprivileged individuals. These initiatives helped me gain a deeper understanding of social responsibility and the role individuals play in contributing to community development.
+
+Through active involvement in these activities, I learned the importance of empathy, compassion, and collective effort in addressing social challenges. Engaging directly with people in need made me more aware of real-life issues faced by underprivileged communities and motivated me to contribute beyond academic and technical responsibilities. These experiences strengthened my sense of civic duty, encouraged ethical behavior, and helped me develop a balanced perspective between professional growth and social contribution. .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
@@ -127,11 +145,11 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
-
+- Contributed to saving lives and supporting medical emergencies through voluntary blood donation and by helping create a supportive environment during the blood donation camp organized at B. P. Poddar Institute of Management & Technology, Kolkata.  
+- Actively promoted environmental sustainability by participating in tree plantation activities, contributing to greener and cleaner surroundings within the local community.  
+- Strengthened community bonds through direct interaction and support to elderly citizens and underprivileged individuals.  
+- Developed a deeper sense of empathy, social responsibility, and civic awareness through active community involvement.  
+- Enhanced interpersonal, communication, and coordination skills by working collaboratively in social initiatives and community programs.
 ### **Photos**
 
 <!-- add your photos below -->
@@ -164,3 +182,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+
+- [Mr. Purnangshu Nath Roy](https://www.linkedin.com/in/purnangshu-roy-16380614), AI Consultant @CSR BOX, Mentor – [SURE Trust]
+
+
