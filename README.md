@@ -64,37 +64,22 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+This capstone project provided comprehensive hands-on experience in applying data analytics concepts to a real-world business problem. It strengthened my ability to work with raw, unstructured data and transform it into meaningful insights through systematic cleaning, analysis, and visualization.
+
+I gained practical exposure to using Excel for data preparation, SQL for structured querying and aggregation, Python for exploratory analysis and basic predictive modeling, and Power BI for interactive dashboard creation. The project improved my understanding of how different tools integrate within an end-to-end analytics pipeline.
+
+Additionally, the project enhanced my analytical thinking, problem-solving skills, and data-driven decision-making ability. It also improved my capability to present insights clearly and professionally for business stakeholders, making the learning outcome both technically and practically valuable.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> EXCEL DASHBOARD → Assignments/H TARUN DASHBOARD.xlsx</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> Bike_Buyers Dashboard.→ Assignments/Bike_Buyers Dashboard.xlsx;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> H TARUN POSTGRE SQL → Assignments/H TARUN POSTGRE SQL.sql;</p>
-
-<p><strong><a href="#project4">Project 4:</a></strong> music_store_database querys → Assignments/music_store_database  querys.sql;</p>
-
-<p><strong><a href="#project5">Project 5:</a></strong> PDF CHECKER →Assignments/PDF CHECKER </p>
-
-<p><strong><a href="#project6">Project 6:</a></strong> python scientific_calculator. →Assignments/python scientific_calculator.py </p>
-
-<p><strong><a href="#project7">Project 7:</a></strong>  H TARUN - G8 DS EXCEL.→ Assignments/H TARUN - G8 DS EXCEL.xlsx </p>
-
-<p><strong><a href="#project8">Project 8:</a></strong>  scientific_calculator1 → Assignments/scientific_calculator1.py </p>
-
-<p><strong><a href="#project9">Project 9:</a></strong>  Pizza Sales Report → Final capstone project/Pizza Sales Report </p>
+<p><strong><a href="#project1">Project 1:</a></strong> Pizza Analysis Report </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: <Pizza Analysis Report></h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
@@ -103,25 +88,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
